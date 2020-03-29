@@ -2,15 +2,13 @@
 ## [*managergerslides.com*](https://www.managerslides.com) (Business Homepage)
 
 
-This repository includes my course notes, assessments, and resources from Harvard's famous [*CS 50 Introduction to Computer Science*](https://www.edx.org/course/cs50s-introduction-to-computer-science) program.
+This repository includes information, files, course notes, assessments, and resources from my final project as part of Harvard's famous [*CS 50 Introduction to Computer Science*](https://www.edx.org/course/cs50s-introduction-to-computer-science) program.
 
 
 ## Project Details:
 
 ### **Mission**
 Develop and improve a complex and interactive business homepage for a presentation design consulting agency. The site is to be used in the real world after the course and should combine features taught in Harvard University's CS50 class including functionality from Python, HTML, CSS, and Javascript.
-
-An updated version can be found at: www.managerslides.com
 
 ### **Files:**
 - CS50 Final project.mp4 (short project video)
