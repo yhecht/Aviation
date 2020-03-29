@@ -1,5 +1,5 @@
-# Harvard CS50x - Final Project
-## managergerslides.com (Business Homepage)
+# Harvard CS50 - Final Project
+## [*managergerslides.com*](https://www.managerslides.com) (Business Homepage)
 
 
 This repository includes my course notes, assessments, and resources from Harvard's famous [*CS 50 Introduction to Computer Science*](https://www.edx.org/course/cs50s-introduction-to-computer-science) program.
