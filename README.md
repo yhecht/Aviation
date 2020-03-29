@@ -1,16 +1,24 @@
-# Harvard CS50x - FINAL PROJECT - managergerslides.com Business Homepage
+# Harvard CS50x - Final Project
+## managergerslides.com (Business Homepage)
 
 
 This repository includes my course notes, assessments, and resources from Harvard's famous [*CS 50 Introduction to Computer Science*](https://www.edx.org/course/cs50s-introduction-to-computer-science) program.
 
 
-## Course Content:
+## Project Details:
 
-### **Project Details**
-Develop & improve a complex and interactive business homepage for a presentation design consulting agency. The site is to be used in the real world after the course and should combine features taught in Harvard University's CS50 class including functionality from Python, HTML, CSS, and Javascript.
+### **Mission**
+Develop and improve a complex and interactive business homepage for a presentation design consulting agency. The site is to be used in the real world after the course and should combine features taught in Harvard University's CS50 class including functionality from Python, HTML, CSS, and Javascript.
 
-An updated version can be found at: www.managerslides.com.
+An updated version can be found at: www.managerslides.com
 
+### **Files:**
+- CS50 Final project.mp4 (short project video)
+- CS50 Final Project.pdf (project presentation)
+- managerslides.com Sitemap.pdf (visual site overview)
+- managerslides.com.pdf (visual print of the landing page)
+- managerslides.html (source code of landing page)
+- README.mde (general information & instructions)
 
 ### **Website Features**
 - FAQ
@@ -66,7 +74,7 @@ An updated version can be found at: www.managerslides.com.
 - described symptoms of problems precisely and ask questions clearly
 - identified & quantified tradeoffs among resources, particularly time and space
 
-Copyright 2020 Yannique Hecht.
+© 2020 Yannique Hecht
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 The course, including its problem set questions, and data sets were provided by [David J. Malan](https://cs.harvard.edu/malan/), Gordon McKay Professor of the Practice of Computer Science in the School of Engineering and Applied Sciences and a Member of the Faculty of Education in the Graduate School of Education at Harvard University. He teaches Computer Science 50, otherwise known as CS50, which is Harvard University's largest course. He also teaches at Harvard Business School, Harvard Law School, Harvard Extension School, and Harvard Summer School. All of his courses are freely available as OpenCourseWare.
